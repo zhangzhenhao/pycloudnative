@@ -1,2 +1,2 @@
 # pycloudnative
-One framework or sample to microservice with python language.
+One framework or sample of microservice with python language.
